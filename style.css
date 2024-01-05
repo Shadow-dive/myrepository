@@ -1,0 +1,17 @@
+* {
+  background-color: ivory;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: gray;
+}
+
+h1 {
+  padding: 10px;
+}
+
+div.container {
+  display: flex;
+}
